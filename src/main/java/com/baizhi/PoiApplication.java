@@ -14,6 +14,7 @@ public class PoiApplication {
         System.out.println("米吃饭了吗/");
         System.out.println("沒吃一起嗎？");
         System.out.println("chimian");
+        System.out.println("吃米");
     }
 
 }
